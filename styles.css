@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.middle{
+    margin-left: auto;
+    margin-right: auto;
+}
+.center
+{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+#table-1,#table-2,#table-3
+{
+    border-collapse: collapse;
+    width:50%;
+    height:100px;
+    border: 1px solid black;
+}
+#table-2,tr,td
+{
+    border: 1px solid black;
+}
